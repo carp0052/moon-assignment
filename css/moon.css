@@ -67,6 +67,7 @@ img{
 }
 ul{
 	list-style-type: none;
+	padding: 0 80px;	
 }
 a:link, a:visited{
 	transition: all 0.3s linear;
@@ -98,7 +99,7 @@ a:hover, a:active, a:focus{
 }
 .footer{
 	background-color: #333333;
-	width: 100%;
+	padding: 30px;
 }
 
 /***********************************
@@ -154,10 +155,6 @@ a:hover, a:active, a:focus{
 	float:left;
 	margin-right:10px;
 	margin-bottom: 10px;
-}
-
-.footer ul{
-	padding: 30px 80px;	
 }
 
 .footer p{
